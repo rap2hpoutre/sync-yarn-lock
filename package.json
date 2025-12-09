@@ -1,0 +1,41 @@
+{
+  "name": "@rap2hpoutre/sync-yarn-lock",
+  "version": "1.0.0",
+  "description": "Sync package.json versions with yarn.lock - Modern replacement for syncyarnlock, supporting Yarn 4",
+  "type": "module",
+  "bin": {
+    "sync-yarn-lock": "./cli.mjs"
+  },
+  "files": [
+    "cli.mjs",
+    "CHANGELOG.md"
+  ],
+  "scripts": {
+    "test": "node cli.mjs --help"
+  },
+  "keywords": [
+    "yarn",
+    "yarn.lock",
+    "package.json",
+    "sync",
+    "lockfile",
+    "dependencies",
+    "versions",
+    "yarn4",
+    "yarn-berry",
+    "syncyarnlock"
+  ],
+  "author": "rap2hpoutre",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rap2hpoutre/sync-yarn-lock.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rap2hpoutre/sync-yarn-lock/issues"
+  },
+  "homepage": "https://github.com/rap2hpoutre/sync-yarn-lock#readme",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

@@ -1,0 +1,20 @@
+# Development files
+sync-yarn-lock.mjs
+.git
+.gitignore
+
+# Editor files
+.vscode
+.idea
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test files
+test/
+tests/
+*.test.js
+*.spec.js
