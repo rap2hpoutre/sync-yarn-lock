@@ -1,6 +1,6 @@
 {
   "name": "@rap2hpoutre/sync-yarn-lock",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Sync package.json versions with yarn.lock - Modern replacement for syncyarnlock, supporting Yarn 4",
   "type": "module",
   "bin": {
