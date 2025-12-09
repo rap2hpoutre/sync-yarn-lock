@@ -28,28 +28,28 @@ When you run `yarn add` or `yarn upgrade`, Yarn updates your `yarn.lock` with ex
 ### Using npx (recommended)
 
 ```bash
-npx sync-yarn-lock
+npx @rap2hpoutre/sync-yarn-lock
 ```
 
 ### Global installation
 
 ```bash
-npm install -g sync-yarn-lock
+npm install -g @rap2hpoutre/sync-yarn-lock
 # or
-yarn global add sync-yarn-lock
+yarn global add @rap2hpoutre/sync-yarn-lock
 ```
 
 ## Usage
 
 ```bash
 # Sync versions (modifies package.json)
-npx sync-yarn-lock
+npx @rap2hpoutre/sync-yarn-lock
 
 # Preview changes without modifying files
-npx sync-yarn-lock --dry-run
+npx @rap2hpoutre/sync-yarn-lock --dry-run
 
 # Silent mode (only show errors)
-npx sync-yarn-lock --silent
+npx @rap2hpoutre/sync-yarn-lock --silent
 ```
 
 ### Options

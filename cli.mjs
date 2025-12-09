@@ -23,7 +23,7 @@ const HELP = `
 ${colors.cyan("sync-yarn-lock")} - Sync package.json versions with yarn.lock
 
 ${colors.yellow("USAGE")}
-  npx sync-yarn-lock [options]
+  npx @rap2hpoutre/sync-yarn-lock [options]
 
 ${colors.yellow("OPTIONS")}
   -h, --help      Show this help message
@@ -36,8 +36,8 @@ ${colors.yellow("DESCRIPTION")}
   versions resolved in yarn.lock. Works with Yarn 4 (Berry).
 
 ${colors.yellow("EXAMPLES")}
-  npx sync-yarn-lock          Sync versions and save
-  npx sync-yarn-lock --dry-run   Preview changes only
+  npx @rap2hpoutre/sync-yarn-lock          Sync versions and save
+  npx @rap2hpoutre/sync-yarn-lock --dry-run   Preview changes only
 `;
 
 function parseArgs(args) {
