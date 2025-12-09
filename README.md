@@ -1,9 +1,9 @@
 # sync-yarn-lock
 
-[![npm version](https://img.shields.io/npm/v/sync-yarn-lock.svg)](https://www.npmjs.com/package/sync-yarn-lock)
-[![npm downloads](https://img.shields.io/npm/dm/sync-yarn-lock.svg)](https://www.npmjs.com/package/sync-yarn-lock)
-[![license](https://img.shields.io/npm/l/sync-yarn-lock.svg)](https://github.com/rap2hpoutre/sync-yarn-lock/blob/main/LICENSE)
-[![node](https://img.shields.io/node/v/sync-yarn-lock.svg)](https://nodejs.org)
+[![npm version](https://img.shields.io/npm/v/@rap2hpoutre/sync-yarn-lock.svg)](https://www.npmjs.com/package/@rap2hpoutre/sync-yarn-lock)
+[![npm downloads](https://img.shields.io/npm/dm/@rap2hpoutre/sync-yarn-lock.svg)](https://www.npmjs.com/package/@rap2hpoutre/sync-yarn-lock)
+[![license](https://img.shields.io/npm/l/@rap2hpoutre/sync-yarn-lock.svg)](https://github.com/rap2hpoutre/sync-yarn-lock/blob/main/LICENSE)
+[![node](https://img.shields.io/node/v/@rap2hpoutre/sync-yarn-lock.svg)](https://nodejs.org)
 
 > 🔒 Sync your `package.json` versions with `yarn.lock` — Modern replacement for `syncyarnlock`, built for **Yarn 4** (Berry)
 
