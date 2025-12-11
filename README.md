@@ -96,11 +96,3 @@ After running `npx sync-yarn-lock`:
 
 - **Node.js** >= 18
 - **Yarn** 4 (Berry) - must be available in PATH
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-MIT © [rap2hpoutre](https://github.com/rap2hpoutre)
